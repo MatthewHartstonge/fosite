@@ -5,7 +5,7 @@ import (
 
 	"context"
 
-	"github.com/ory/fosite"
+	"github.com/MatthewHartstonge/fosite"
 	"github.com/pkg/errors"
 )
 

@@ -7,7 +7,7 @@ import (
 	context "context"
 
 	gomock "github.com/golang/mock/gomock"
-	fosite "github.com/ory/fosite"
+	fosite "github.com/MatthewHartstonge/fosite"
 )
 
 // Mock of AuthorizeCodeStorage interface

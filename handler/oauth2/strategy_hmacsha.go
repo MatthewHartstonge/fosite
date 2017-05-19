@@ -6,8 +6,8 @@ import (
 	"context"
 	"fmt"
 
-	"github.com/ory/fosite"
-	enigma "github.com/ory/fosite/token/hmac"
+	"github.com/MatthewHartstonge/fosite"
+	enigma "github.com/MatthewHartstonge/fosite/token/hmac"
 	"github.com/pkg/errors"
 )
 

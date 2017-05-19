@@ -181,9 +181,9 @@ to the [example app](https://github.com/ory/fosite-example/) for more details.
 This little code snippet sets up a full-blown OAuth2 and OpenID Connect example.
 
 ```go
-import "github.com/ory/fosite"
-import "github.com/ory/fosite/compose"
-import "github.com/ory/fosite/storage"
+import "github.com/MatthewHartstonge/fosite"
+import "github.com/MatthewHartstonge/fosite/compose"
+import "github.com/MatthewHartstonge/fosite/storage"
 
 // This is the exemplary storage that contains:
 // * an OAuth2 Client with id "my-client" and secret "foobar" capable of all oauth2 and open id connect grant and response types.

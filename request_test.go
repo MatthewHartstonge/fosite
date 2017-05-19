@@ -5,7 +5,7 @@ import (
 	"testing"
 	"time"
 
-	. "github.com/ory/fosite"
+	. "github.com/MatthewHartstonge/fosite"
 	"github.com/stretchr/testify/assert"
 )
 

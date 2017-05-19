@@ -5,12 +5,12 @@ import (
 	"time"
 
 	"github.com/golang/mock/gomock"
-	"github.com/ory/fosite"
-	"github.com/ory/fosite/handler/oauth2"
-	"github.com/ory/fosite/internal"
-	"github.com/ory/fosite/storage"
-	"github.com/ory/fosite/token/hmac"
-	"github.com/ory/fosite/token/jwt"
+	"github.com/MatthewHartstonge/fosite"
+	"github.com/MatthewHartstonge/fosite/handler/oauth2"
+	"github.com/MatthewHartstonge/fosite/internal"
+	"github.com/MatthewHartstonge/fosite/storage"
+	"github.com/MatthewHartstonge/fosite/token/hmac"
+	"github.com/MatthewHartstonge/fosite/token/jwt"
 	"github.com/pkg/errors"
 	"github.com/stretchr/testify/assert"
 )

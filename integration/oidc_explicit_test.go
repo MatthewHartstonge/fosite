@@ -6,10 +6,10 @@ import (
 
 	"fmt"
 
-	"github.com/ory/fosite/compose"
-	"github.com/ory/fosite/handler/openid"
-	"github.com/ory/fosite/internal"
-	"github.com/ory/fosite/token/jwt"
+	"github.com/MatthewHartstonge/fosite/compose"
+	"github.com/MatthewHartstonge/fosite/handler/openid"
+	"github.com/MatthewHartstonge/fosite/internal"
+	"github.com/MatthewHartstonge/fosite/token/jwt"
 	"github.com/stretchr/testify/require"
 	"golang.org/x/oauth2"
 )

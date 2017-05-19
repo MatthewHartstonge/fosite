@@ -1,8 +1,8 @@
 package compose
 
 import (
-	"github.com/ory/fosite"
-	"github.com/ory/fosite/handler/oauth2"
+	"github.com/MatthewHartstonge/fosite"
+	"github.com/MatthewHartstonge/fosite/handler/oauth2"
 )
 
 // OAuth2AuthorizeExplicitFactory creates an OAuth2 authorize code grant ("authorize explicit flow") handler and registers

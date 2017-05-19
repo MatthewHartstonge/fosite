@@ -8,7 +8,7 @@ import (
 	time "time"
 
 	gomock "github.com/golang/mock/gomock"
-	fosite "github.com/ory/fosite"
+	fosite "github.com/MatthewHartstonge/fosite"
 )
 
 // Mock of AuthorizeRequester interface

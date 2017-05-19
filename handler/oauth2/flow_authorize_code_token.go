@@ -4,7 +4,7 @@ import (
 	"context"
 	"time"
 
-	"github.com/ory/fosite"
+	"github.com/MatthewHartstonge/fosite"
 	"github.com/pkg/errors"
 )
 

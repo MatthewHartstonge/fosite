@@ -5,7 +5,7 @@ package internal
 
 import (
 	gomock "github.com/golang/mock/gomock"
-	fosite "github.com/ory/fosite"
+	fosite "github.com/MatthewHartstonge/fosite"
 )
 
 // Mock of Client interface

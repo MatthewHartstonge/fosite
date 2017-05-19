@@ -7,10 +7,10 @@ import (
 	"context"
 
 	"github.com/golang/mock/gomock"
-	. "github.com/ory/fosite"
-	"github.com/ory/fosite/compose"
-	"github.com/ory/fosite/internal"
-	"github.com/ory/fosite/storage"
+	. "github.com/MatthewHartstonge/fosite"
+	"github.com/MatthewHartstonge/fosite/compose"
+	"github.com/MatthewHartstonge/fosite/internal"
+	"github.com/MatthewHartstonge/fosite/storage"
 	"github.com/pkg/errors"
 	"github.com/stretchr/testify/assert"
 )
