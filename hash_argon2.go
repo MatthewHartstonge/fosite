@@ -30,7 +30,7 @@ type Argon2 struct {
 // if the two do not match.
 func (a *Argon2) Compare(hash, data []byte) error {
 	ok, err := argon2.VerifyEncoded(data, hash)
-	if err {
+	if err != nil {
 		return errors.WithStack(err)
 	}
 	if !ok {
