@@ -24,6 +24,8 @@ import:
 - package: github.com/ory/common
   subpackages:
   - pkg
+- package: github.com/ory/fosite
+  version: ^0.8.0
 testImport:
 - package: github.com/gorilla/mux
   version: ~1.1.0
